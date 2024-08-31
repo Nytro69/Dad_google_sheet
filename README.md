@@ -1,10 +1,15 @@
 # Dad_google_sheet
 
-To use the script you need to first prepare a Folder with your pictures, it should look like this: Root -> product_name -> online -> product_name.jpg, notice if you have multible images in the online folder it will only take the first image. 
+To use the script you need to first prepare a Folder with your pictures, it should look like this: Root -> product_name -> online -> product_name.jpg, notice if you have multible images in the online folder it will only take the first image.
 
 ![image](https://github.com/user-attachments/assets/01f29b71-e9a8-4a8f-a378-1dc62d77b26c) 
 
-In the picture is products the root folder and the numbers represent the product_name. Then to use the script you need to copy it from the repo
+In the picture is products the root folder and the numbers represent the product_name. Then to use the script you need to copy it from the repo. Note: The root folder needs to be shared to everyone who has the link. It's likely that your work-drive won't work so you can add the folder to your private drive.
+
+![image](https://github.com/user-attachments/assets/728d5c12-5185-4649-ab65-1c67a765feb0)
+
+![image](https://github.com/user-attachments/assets/181e2cd5-4f2e-46fa-9712-c930dd6bd1df)
+
 
 ![image](https://github.com/user-attachments/assets/32cfe17e-25fe-4b20-9353-da3424e3f795) 
 
