@@ -27,6 +27,14 @@ Then copy in the file
  
 ![image](https://github.com/user-attachments/assets/1a6b0743-42c1-4f8c-b978-08a1e4e44e89) 
  
+Replace the Folder ID with the one in your google drive
+
+![image](https://github.com/user-attachments/assets/4916c0d3-95f4-424e-8a50-8c7313dac7f1)
+
+
+![image](https://github.com/user-attachments/assets/9cc0b145-9066-4433-aafa-361d5490a104)
+
+
 Then click run.
  
 
