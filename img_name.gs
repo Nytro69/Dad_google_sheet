@@ -4,9 +4,9 @@ function insertImagesAndNames() {
   var sheet = spreadsheet.getActiveSheet();
   
   // Get the root folder where all image folders are located
-  var rootFolder = DriveApp.getFolderById('YOUR_ROOT_FOLDER_ID_HERE');
+  var rootFolder = DriveApp.getFolderById('YOUR_ROOT_FOLDER_ID_HERE'); 
   
-  // Start from row 2
+  // Start from row 2 (change if you want it to start somewhere else)
   var row = 2;
   
   // Iterate through all folders in the root folder
@@ -27,11 +27,11 @@ function insertImagesAndNames() {
         var imageId = image.getId();
         var imageName = image.getName();
         
-        // Insert the image in column A
+        // Insert the image in column A (you can change column in the getRange, it's 1 by default, 1 -> A, 2 -> B, 3 -> C ...)
         var imageCell = sheet.getRange(row, 1);
         imageCell.setFormula('=IMAGE("https://drive.google.com/uc?export=view&id=' + imageId + '")');
         
-        // Insert the image name in column B
+        // Insert the image name in column B (you can change column in the getRange, it's 2 by default, 1 -> A, 2 -> B, 3 -> C ...)
         sheet.getRange(row, 2).setValue(folderName);
         
         // Move to the next row
