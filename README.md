@@ -8,13 +8,15 @@ In the picture is products the root folder and the numbers represent the product
 
 ![image](https://github.com/user-attachments/assets/32cfe17e-25fe-4b20-9353-da3424e3f795) 
 
-Choose your current project:
-
-![image](https://github.com/user-attachments/assets/ffd3eec0-3da3-4834-b534-cb854447aeb2)
 
 and then copy it in your spreadsheet by going into apps script: 
  
 ![image](https://github.com/user-attachments/assets/19a458bf-3249-4620-8543-b8d8482cd22d) 
+
+
+Choose your current project:
+
+![image](https://github.com/user-attachments/assets/ffd3eec0-3da3-4834-b534-cb854447aeb2)
  
 Then copy in the file 
  
