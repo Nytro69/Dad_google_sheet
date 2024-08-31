@@ -25,7 +25,8 @@ Choose your current project:
  
 Then copy in the file 
  
-![image](https://github.com/user-attachments/assets/1a6b0743-42c1-4f8c-b978-08a1e4e44e89) 
+![image](https://github.com/user-attachments/assets/8265a6ed-82aa-4c29-9859-92accc062d1b)
+
  
 Replace the Folder ID with the one in your google drive
 
@@ -33,7 +34,6 @@ Replace the Folder ID with the one in your google drive
 
 
 ![image](https://github.com/user-attachments/assets/7d814ad6-5fe1-4c46-a1a4-3d61f0039e4c)
-
 
 
 Then click run.
