@@ -10,7 +10,7 @@ In the picture is products the root folder and the numbers represent the product
 
 ![image](https://github.com/user-attachments/assets/181e2cd5-4f2e-46fa-9712-c930dd6bd1df)
 
-Then to use the script you need to copy it from the repo.
+Then to use the script, you need to copy it from the img_name.gs file 
 
 ![image](https://github.com/user-attachments/assets/32cfe17e-25fe-4b20-9353-da3424e3f795) 
 
@@ -28,7 +28,7 @@ Then copy in the file
 ![image](https://github.com/user-attachments/assets/8265a6ed-82aa-4c29-9859-92accc062d1b)
 
  
-Replace the Folder ID with the one in your google drive
+Replace the YOUR_ROOT_FOLDER_ID_HERE with the one in your google drive
 
 ![image](https://github.com/user-attachments/assets/4916c0d3-95f4-424e-8a50-8c7313dac7f1)
 
