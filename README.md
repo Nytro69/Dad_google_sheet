@@ -33,7 +33,7 @@ Replace the YOUR_ROOT_FOLDER_ID_HERE with the one in your google drive
 ![image](https://github.com/user-attachments/assets/4916c0d3-95f4-424e-8a50-8c7313dac7f1)
 
 
-![image](https://github.com/user-attachments/assets/bde756e9-fe0b-4441-b075-71dd5d591eb5)
+![image](https://github.com/user-attachments/assets/b7137c2d-1b85-4571-92cd-3f46d4e0120f)
 
 
 
