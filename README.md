@@ -38,6 +38,8 @@ Replace the YOUR_ROOT_FOLDER_ID_HERE with the one in your google drive
 
 
 Then click run.
+
+If something went wrong, post it in the issues section.
  
 
 
